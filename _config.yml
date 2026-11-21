@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll) settings for the public legal site. The pages are plain Markdown.
+title: Unreserved
+description: Talk out loud with an AI speaking coach.
+theme: jekyll-theme-minimal
