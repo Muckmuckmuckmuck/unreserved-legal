@@ -25,7 +25,7 @@ Unreserved is run by Jay Reddy, an individual developer based in New Jersey, Uni
 
 **An anonymous account ID.** When you first use a live feature, the app creates an anonymous account, a random ID, so your talks and minutes belong to you. We use it to run the service.
 
-**Your voice during live talks and calls.** It's streamed in real time to OpenAI to run the conversation and write a transcript. We don't record or store the audio. We use it to provide the feature you started, and only after you agree in the app.
+**Your voice during live talks and calls.** It's streamed in real time to OpenAI to run the conversation and write a transcript. We don't record or store the audio. We use it to provide the feature you started, and only after you agree in the app. With it, the app sends your day and rough time of day (like "Tuesday morning"), so a caller's small talk fits your day. That isn't stored, and it never includes your location.
 
 **Transcripts, scores and feedback.** We keep the text of each live talk, plus our measurements (such as pace and filler words) and the AI's feedback. This includes the notes from a prep card you choose to rehearse live, and a short note a practice-call character "remembers" for your next call. We use this to give you feedback, track your progress, and let callers remember you.
 
