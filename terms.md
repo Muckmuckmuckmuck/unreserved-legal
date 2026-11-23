@@ -4,7 +4,7 @@ title: Terms of use
 
 # Terms of use
 
-**Effective November 21, 2026**
+**Effective November 22, 2026**
 
 These terms are an agreement between you and Jay Reddy ("we", "us"), who runs Unreserved. By using Unreserved, you agree to them. The app is licensed to you under [Apple's Standard License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), and these terms add to it. Our [privacy policy](privacy) explains how we handle your data.
 
@@ -33,8 +33,13 @@ The app creates an anonymous account when you first use a live feature. You can 
 - Manage or cancel in your Apple account settings.
 - Apple handles refunds under its own policies.
 
+**Free trials**
+- Some plans start with a free trial, shown before you subscribe. Nothing is charged during the trial.
+- When the trial ends, the subscription starts and Apple charges the plan's price, unless you cancel at least 24 hours before the trial ends. We'll remind you two days before it ends.
+- Apple allows one free trial per Apple account for Pro. A trial includes a smaller allowance of live minutes than a paid month, shown in the app.
+
 **Live minutes**
-- Pro includes a monthly allowance of live minutes and check-ins, shown in the app.
+- Pro includes a monthly allowance of live minutes and check-ins, shown in the app (450 minutes a month at launch).
 - The allowance resets at the start of each calendar month (UTC), and unused minutes don't roll over.
 - One purchase shares a single allowance, even if it's restored on more than one device or account.
 

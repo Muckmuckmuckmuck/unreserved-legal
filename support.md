@@ -10,6 +10,9 @@ For anything about the app, use **Settings → Contact support** in Unreserved, 
 
 ## Common questions
 
+**How does the free week work?**
+Your first talk is free. After it, you can start a free week of Pro on the yearly plan. Nothing is charged during the week, and the app reminds you two days before it ends. If you don't cancel by then, the yearly plan starts and Apple charges you. To cancel, open your iPhone's Settings, tap your name, then Subscriptions.
+
 **How do I cancel Pro?**
 Open your iPhone's Settings, tap your name, then Subscriptions, then Unreserved. Cancel at least 24 hours before your renewal date. Apple handles refunds: [request one from Apple](https://reportaproblem.apple.com).
 
@@ -23,7 +26,7 @@ Go to Progress, tap the gear, then Delete my data. That removes your history, tr
 Use Settings → Contact support and ask for a copy. The email includes your anonymous account ID, so we can find your data. See the [privacy policy](privacy).
 
 **What counts as live minutes?**
-Live talks and practice calls use minutes. Drills and "Say it again" don't, because they run on your iPhone. Minutes reset at the start of each month.
+Live talks and practice calls use minutes: Pro includes 450 a month, about 15 a day, and the free week includes 105. Drills and "Say it again" don't use minutes, because they run on your iPhone. Minutes reset at the start of each month.
 
 **Why does my voice go to OpenAI?**
 OpenAI's AI runs the live conversation. We don't keep recordings. See the [privacy policy](privacy).
