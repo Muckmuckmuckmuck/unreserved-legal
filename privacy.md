@@ -46,6 +46,7 @@ Unreserved is run by Jay Reddy, an individual developer based in New Jersey, Uni
 - drills and "Say it again" audio;
 - tone analysis;
 - the call schedule and its notifications;
+- practice reminders (if you turn them on), which your iPhone schedules itself;
 - prep cards you don't rehearse live.
 
 ## Ads for free users

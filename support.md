@@ -13,6 +13,9 @@ For anything about the app, use **Settings → Contact support** in Unreserved, 
 **How does the free week work?**
 Your first talk is free. After it, you can start a free week of Pro on the yearly plan. Nothing is charged during the week, and the app reminds you two days before it ends. If you don't cancel by then, the yearly plan starts and Apple charges you. To cancel, open your iPhone's Settings, tap your name, then Subscriptions.
 
+**How do I stop the reminders?**
+Go to Progress, tap the gear, and turn off "Remind me if I skip a few days". They also stop by themselves after a month without practice, and you can turn off all notifications for Unreserved in your iPhone's Settings.
+
 **Why do I see ads?**
 Ads keep the free version free: drills, "Say it again" and your progress cost nothing to use. You'll see a short ad now and then after you finish a few drills, never while you're recording. Pro has no ads.
 
