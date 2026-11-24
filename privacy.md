@@ -4,7 +4,7 @@ title: Privacy policy
 
 # Privacy policy
 
-**Effective November 21, 2026**
+**Effective November 23, 2026**
 
 Unreserved is an iPhone app for practicing how you speak, with an AI coach. This policy explains what we collect, why, who helps us run the app, and your choices. We wrote it in plain words on purpose.
 
@@ -48,9 +48,9 @@ Unreserved is run by Jay Reddy, an individual developer based in New Jersey, Uni
 - the call schedule and its notifications;
 - prep cards you don't rehearse live.
 
-## Optional ads
+## Ads for free users
 
-If you choose to watch an optional rewarded ad (to unlock extra practice prompts), Google AdMob shows it.
+The free version shows ads from Google AdMob: a full-screen ad now and then after you finish a few drills (never while you're recording or on a call), and an optional ad you can choose to watch to unlock extra practice prompts.
 - We ask for non-personalized ads only, and we don't track you across apps (we never ask for Apple's tracking permission).
 - Google may still receive information such as your IP address and how you interact with the ad, under [Google's privacy policy](https://policies.google.com/privacy).
 - In the European Economic Area, the UK and Switzerland, we use Google's consent tool before showing ads.
@@ -62,7 +62,7 @@ We share data only with the providers who run parts of the service for us. They 
 - **Supabase**, which hosts our database and server functions in the United States: your account ID, transcripts, scores, usage and billing records, and crash and error reports.
 - **OpenAI**, which runs live conversations, transcription and scoring: your voice and the conversation, during the talk. It may keep this data for up to 30 days to monitor for abuse, and by default doesn't use it to train its models. See [OpenAI's API data policy](https://openai.com/enterprise-privacy/).
 - **Apple**: App Store payments, DeviceCheck, and notifications.
-- **Google**, for optional ads only (see above).
+- **Google**, for ads in the free version (see above).
 
 We may also disclose information if the law requires it, or to protect people's safety or our rights.
 
@@ -79,7 +79,7 @@ We may also disclose information if the law requires it, or to protect people's 
 - **See, copy or correct** your data: in the app, go to Settings → Contact support. That email includes your anonymous account ID, so we can find your data without knowing who you are. We'll answer within 30 days.
 - **Don't want your voice sent to OpenAI?** Choose "Not now" when asked. Drills keep working on your iPhone.
 - **Crash reports:** turn them off in Settings → Send crash reports.
-- **Ads:** they're optional and only shown when you choose to watch one.
+- **Ads:** the free version shows them; Pro has none. They're never personalized, and we never ask to track you.
 
 **Appeals.** If we decline a privacy request, we'll tell you why. You can appeal by replying with "Appeal" in the subject line, and we'll answer within 45 days and explain what we did or didn't do. If you're still not satisfied, you can contact your state's attorney general. In New Jersey, that's the Division of Consumer Affairs.
 

@@ -4,7 +4,7 @@ title: Terms of use
 
 # Terms of use
 
-**Effective November 22, 2026**
+**Effective November 23, 2026**
 
 These terms are an agreement between you and Jay Reddy ("we", "us"), who runs Unreserved. By using Unreserved, you agree to them. The app is licensed to you under [Apple's Standard License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), and these terms add to it. Our [privacy policy](privacy) explains how we handle your data.
 
@@ -46,9 +46,9 @@ The app creates an anonymous account when you first use a live feature. You can 
 **Changes**
 - We may change features, allowances or prices. A price change applies only from your next renewal, as Apple's rules require.
 
-## 5. Free features and optional ads
+## 5. Free features and ads
 
-Some features are free, including drills that run on your iPhone. Free users may choose to watch an optional ad to unlock extra practice prompts.
+Some features are free, including drills that run on your iPhone. The free version shows ads: a full-screen ad now and then between drills, and optional ads you can choose to watch for extra practice prompts. Pro has no ads.
 
 ## 6. Using Unreserved fairly
 
